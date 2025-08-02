@@ -21,41 +21,41 @@ A regional retail chain operating under the Simba Supermarket brand across Kigal
 
 
 ## Step 2: Exploratory Data Analysis (EDA)
-# Business Question(1)
 
+Business Question(1)
 - What are the top-selling products?
   Sports and Travel leads, followed by Electronics and Food & Beverages
 
-# Action(1)
+Action(1)
 - Prioritize stock and marketing for these categories
 
-# Business Question(2)
+Business Question(2)
 - Are there seasonal patterns?
   January shows peak revenue, dip in February
 
-# Action(2)
+Action(2)
 - Offer discounts or campaigns during slow months
 
 
-# Business Question(3)
+Business Question(3)
 - Which branches are strongest?
   Simba-Kicukiro, followed by Gikondo and Kigali Heights
 
-# Action(3)
+Action(3)
 - Support lower-performing stores with training or promos
 
-# Business Question(4)
+Business Question(4)
 - Member vs. Normal Customers?
   Members generate more revenue
 
-# Action(4)
+Action(4)
 - Strengthen loyalty and rewards programs
 
-# Business Question(5)
+Business Question(5)
 - Gender trends?
   Females spend more than males
   
-# Action(5) 
+Action(5) 
 - Consider targeted promotions to female shoppers
 
 ## Folder Structure
