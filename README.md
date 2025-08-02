@@ -9,7 +9,7 @@ A regional retail chain operating under the Simba Supermarket brand across Kigal
 - Uncover monthly trends and seasonal fluctuations  
 - Make data-backed decisions on marketing and inventory  
 
-Project Workflow
+## Project Workflow
 
 ## Step 1: Data Cleaning & Preparation
 
@@ -18,44 +18,44 @@ Project Workflow
 - Engineered features like Month, Weekday, Hour, and revenue in Rwandan Francs (RWF)
   using an exchange rate of 1 USD = 1,440 RWF
   
-README.md
 
 
 ## Step 2: Exploratory Data Analysis (EDA)
-# 1 Business Question
+# Business Question(1)
 
 - What are the top-selling products?
   Sports and Travel leads, followed by Electronics and Food & Beverages
 
-# 1 Action
+# Action(1)
 - Prioritize stock and marketing for these categories
 
-# 2 Business Question
+# Business Question(2)
 - Are there seasonal patterns?
   January shows peak revenue, dip in February
 
-# 2 Action
+# Action(2)
 - Offer discounts or campaigns during slow months
 
 
-# 3  Business Question
+# Business Question(3)
 - Which branches are strongest?
   Simba-Kicukiro, followed by Gikondo and Kigali Heights
 
-# 3 Action
+# Action(3)
 - Support lower-performing stores with training or promos
 
-# 4 Business Question
+# Business Question(4)
 - Member vs. Normal Customers?
   Members generate more revenue
 
-# 4 Action
+# Action(4)
 - Strengthen loyalty and rewards programs
 
-# 5 Business Question
+# Business Question(5)
 - Gender trends?
   Females spend more than males
-# 5 Action 
+  
+# Action(5) 
 - Consider targeted promotions to female shoppers
 
 ## Folder Structure
