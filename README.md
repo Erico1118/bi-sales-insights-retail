@@ -1,4 +1,4 @@
-# Sales Insights for a Regional Retail Chain
+#  Business Intelligence Case: Sales Insights for a Regional Retailer
 
 ## Business Case
 
