@@ -69,16 +69,18 @@ retail-sales-analysis/
 │   └── 01_exploration.ipynb
 │
 ├── visuals/
-│   ├── revenue_by_product.png
-│   ├── monthly_sales_trend.png
-│   ├── branch_performance_by_revenue.png
-│   └── revenue_by_customer.png
+│   ├── Total Revenue by Product line.jpg
+│   ├── Monthly Revenue Trend.jpg
+│   ├── Branch Revenue Comparison.jpg
+│   └── Customer Type Vs Total revenue.jpg
+    └── Gender Vs Total Revenue    
 │
 ├── PowerBI/
-│   └── Simba_Sales_Report.pbix
+│   └── sales-performance-report.pbix
 │
 └── README.md
-
+└── images/
+    └── sales_insight_visual_report.jpg
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
